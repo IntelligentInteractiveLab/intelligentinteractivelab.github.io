@@ -7,8 +7,10 @@ importance: 3
 category: Datasets
 ---
 
-<div class='row'>
-    {% include figure.html path="assets/img/confuse-experiment.png" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/confuse-experiment.png" title="confuse-experiment" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 ## Abstract
@@ -23,7 +25,7 @@ The multimodal ruiwen dataset contains subjects' EEG signals, Eye Tracking and F
 我们使用瑞文高级推理实验作为受试者的视觉刺激材料，诱导受试者产生不同的情绪，同时采集相对应的脑电信号，瑞文测试共包含48个推理问题。 本次实验所用实验范式如下图所示。
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/1-experiment_procedure.png" title="1-experiment_procedure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

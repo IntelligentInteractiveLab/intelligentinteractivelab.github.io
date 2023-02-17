@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 党旺
-description: 华为
+title: 赵冰蕾
+description: 京东（北京）
 importance: 1
 category: Alumni
 # redirect: 
