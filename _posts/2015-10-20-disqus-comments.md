@@ -6,4 +6,4 @@ description: an example of a blog post with disqus comments
 categories: sample-posts external-services
 disqus_comments: true
 ---
-This post shows how to add DISQUS comments.
+This post shows how to add DISQUS comments. 做一些修改测试自动部署
