@@ -2,7 +2,7 @@
 layout: page
 title: CAL
 permalink: /datasets/cal
-description: 瑞文实验诱发的情绪识别脑电数据集
+description: EEG database for Confusion Analysis in Learning
 importance: 2
 category: Datasets
 ---
