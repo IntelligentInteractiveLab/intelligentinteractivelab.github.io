@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RavenGaze
-permalink: /datasets/RavenGaze
+permalink: /datasets/RavenGaze/index.html
 description: 瑞文实验诱发的注视估计数据集
 importance: 4
 category: Datasets
