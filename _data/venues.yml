@@ -20,3 +20,7 @@
 "PII":
   url: https://www.sciencedirect.com/journal/procedia-computer-science/vol/130/suppl/C
   color: "#DBDCDD"
+
+"JNE":
+  url: https://iopscience.iop.org/journal/1741-2552
+  color: "#264F9E"
