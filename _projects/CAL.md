@@ -56,6 +56,7 @@ If you are interested in using this dataset, you will have to print, sign and sc
 ## Publications
 
 Publications include not only papers, but also presentations for conferences or educational purposes.All documents and papers that report on research that uses the CAL dataset will acknowledge this by
+
 citing the following paper:
 
 > T. Xu, J. Wang, G. Zhang, L. Zhang, and Y. Zhou, “Confused or not: decoding brain activity and recognizing confusion in reasoning learning using EEG,” J. Neural Eng., vol. 20, no. 2, p. 026018, Mar. 2023, doi: [10.1088/1741-2552/acbfe0](https://doi.org/10.1088/1741-2552/acbfe0).

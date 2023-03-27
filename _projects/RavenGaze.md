@@ -77,6 +77,14 @@ The angle range of the horizontal direction is (-10°, +10°), and the angle of 
 
 If you are interested in using this dataset, you will have to print, sign and scan an EULA (End User License Agreement) and upload it via the dataset request form. We will then supply you with a username and password to download the data.
 
+## Publications
+
+Publications include not only papers, but also presentations for conferences or educational purposes.All documents and papers that report on research that uses the RavenGaze dataset will acknowledge this by
+
+citing the following paper:
+
+> T. Xu, B. Wu, Y. Bai and Y. Zhou, "RavenGaze: A Dataset for Gaze Estimation Leveraging Psychological Experiment Through Eye Tracker," 2023 IEEE 17th International Conference on Automatic Face and Gesture Recognition (FG), Waikoloa Beach, HI, USA, 2023, pp. 1-6, doi: [10.1109/FG57933.2023.10042793](https://doi.org/10.1109/FG57933.2023.10042793).
+
 ## Credits
 
 First and foremost we'd like to thank the all(34) participants in this study for having the patience and goodwill to let us record their data. This dataset was collected by: Intelligent Interaction Laboratory @ Northwestern Polytechnical University
