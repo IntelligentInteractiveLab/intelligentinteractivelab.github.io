@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 description:
 nav: true
-display_categories: [Teacher, Current Master Students, Alumni]
+display_categories: [Teacher, Current Postgraduate Students, Alumni]
 horizontal: true
 ---
 <div class="projects">

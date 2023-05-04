@@ -2,6 +2,6 @@
 layout: page
 title: 王旭
 importance: 3
-category: Current Master Students
+category: Current Postgraduate Students
 # redirect: 
 ---

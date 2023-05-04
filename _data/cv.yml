@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: 徐韬
+      value: Tao XU
     - name: Email
       value: xutao@nwpu.edu.cn
     - name: Address
@@ -80,7 +80,7 @@
 - title: TEACHING EXPERIENCE
   type: time_table
   contents:
-    - title: C++ programming language, Deep Learning in Python
+    - title: Deep Learning in Python
       year: 
       institution: Undergraduate Course
     - title: Cloud Computing

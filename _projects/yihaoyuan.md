@@ -2,5 +2,5 @@
 layout: page
 title: 伊浩圆
 importance: 4
-category: Current Master Students
+category: Current Postgraduate Students
 ---
