@@ -94,3 +94,11 @@ First and foremost we'd like to thank the all(34) participants in this study for
 To gain access to the dataset and download the files on this page, please download the license agreement below. The license agreement should be printed, signed, scanned and returned via email to <a href="mailto:xutao@nwpu.edu.cn">xutao@nwpu.edu.cn</a> with the subject of "RavenGaze account request". Upon receipt, a username, a password and a download link will be sent to download the data files below.
 
 [The License Agreement](/assets/pdf/license_RavenGaze.pdf)
+
+
+<!-- 引入不蒜子计数 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<center>
+        Views count:<span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>👀 | Number of visitors:<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>👦
+</center>

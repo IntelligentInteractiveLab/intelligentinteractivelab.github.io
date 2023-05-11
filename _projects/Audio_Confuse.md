@@ -107,3 +107,9 @@ To gain access to the dataset and download the files on this page, please downlo
 
 [The License Agreement](/assets/pdf/license_RavenGaze.pdf)
 
+<!-- 引入不蒜子计数 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<center>
+        Views count:<span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>👀 | Number of visitors:<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>👦
+</center>
