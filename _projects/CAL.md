@@ -3,7 +3,7 @@ layout: page
 title: CAL
 permalink: /datasets/cal
 description: EEG database for Confusion Analysis in Learning
-importance: 2
+importance: 1
 category: Datasets
 ---
 

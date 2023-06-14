@@ -3,8 +3,8 @@ layout: page
 title: Audio Confuse
 permalink: /datasets/audio_confuse
 description: 音频诱发的困惑情绪识别脑电数据集
-importance: 1
-category: Datasets
+importance: 4
+category: Datasets_not_used
 # toc:
 
 # - name: Abstract

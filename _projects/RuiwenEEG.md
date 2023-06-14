@@ -4,7 +4,7 @@ title: RuiwenEEG
 permalink: /datasets/ruiwen
 description: 瑞文实验诱发的情绪识别脑电数据集
 importance: 3
-category: Datasets
+category: Datasets_not_used
 ---
 
 <div class="row justify-content-sm-center">

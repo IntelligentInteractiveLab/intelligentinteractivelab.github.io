@@ -2,8 +2,8 @@
 layout: page
 title: RavenGaze
 permalink: /datasets/RavenGaze/index.html
-description: 瑞文实验诱发的注视估计数据集
-importance: 4
+description: Gaze Estimation Dataset Evoked by Raven Progressive Matrices (RPM) Test
+importance: 2
 category: Datasets
 ---
 
