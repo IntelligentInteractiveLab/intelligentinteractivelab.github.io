@@ -5,7 +5,6 @@ permalink: /
 subtitle: <a href='https://www.nwpu.edu.cn/'>NORTHWESTERN POLYTECHNICAL UNIVERSITY</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://ruanjian.nwpu.edu.cn/'>SCHOOL OF SOFTWARE</a>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
