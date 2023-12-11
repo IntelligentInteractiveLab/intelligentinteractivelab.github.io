@@ -6,13 +6,13 @@
     - name: Email
       value: xutao@nwpu.edu.cn
     - name: Address
-      value: Northwestern Polytechnical University，School of Software
+      value: Northwestern Polytechnical University, School of Software
 
 - title: ACADEMIC POSITIONS
   type: time_table
   contents:
     - title: Assoiate Professor
-      institution: Northwestern Polytechnical University
+      institution: Northwestern Polytechnical University, School of Software
       year: 2018 - now
       # description:
       #   - Description 1.
@@ -21,19 +21,19 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Assistant Professor
-      institution: Northwestern Polytechnical University
+    - title: Visiting scholar
+      institution: Rensselaer Polytechnic Institute && Augusta Univ(USA)，Center for Biotechnology and Interdisciplinary Research
       year: 2017 - 2018
       # description:
       #   - Description 1.
       #   - Description 2.
-    - title: Visiting Scholar
-      institution: Rensselaer Polytechnic Institute && Augusta Univ(USA)
-      year: 2002 - 2006
-
     - title: Visiting Scientist
-      institution: National ICT Australia
-      year: 2015
+      institution: National ICT Australia, Machine Learning Research Group
+      year: 2015 - 2015
+
+    - title: Lecturer
+      institution: Northwestern Polytechnical University, School of Software
+      year: 2015 - 2018
 
 
 - title: Education
