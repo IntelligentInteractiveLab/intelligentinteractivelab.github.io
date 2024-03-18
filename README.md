@@ -1,3 +1,9 @@
+# [智能感知交互实验室](https://intelligentinteractivelab.github.io/)
+- 西北工业大学软件学院
+- 智能感知交互实验室主页
+基于ai-folio开发，下述为ai-folio的readme
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
@@ -135,30 +141,33 @@ Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_bla
 
 ## Table Of Contents
 
-  * [User community](#user-community)
-  * [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-  * [Getting started](#getting-started)
-    + [Installation](#installation)
+- [智能感知交互实验室](#智能感知交互实验室)
+- [al-folio](#al-folio)
+  - [User community](#user-community)
+  - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+  - [Table Of Contents](#table-of-contents)
+  - [Getting started](#getting-started)
+    - [Installation](#installation)
       - [Local setup using Docker (Recommended on Windows)](#local-setup-using-docker-recommended-on-windows)
       - [Local Setup (Standard)](#local-setup-standard)
       - [Deployment](#deployment)
       - [Upgrading from a previous version](#upgrading-from-a-previous-version)
-    + [FAQ](#faq)
-  * [Features](#features)
-    + [Publications](#publications)
-    + [Collections](#collections)
-    + [Layouts](#layouts)
+    - [FAQ](#faq)
+  - [Features](#features)
+    - [Publications](#publications)
+    - [Collections](#collections)
+    - [Layouts](#layouts)
       - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math & code](#full-support-for-math--code)
+      - [Full support for math \& code](#full-support-for-math--code)
       - [Photos](#photos)
-    + [Other features](#other-features)
+    - [Other features](#other-features)
       - [GitHub repositories and user stats](#github-repositories-and-user-stats)
       - [Theming](#theming)
       - [Social media previews](#social-media-previews)
       - [Atom (RSS-like) Feed](#atom-rss-like-feed)
-  * [Contributing](#contributing)
-    + [Core Contributors](#core-contributors)
-  * [License](#license)
+  - [Contributing](#contributing)
+    - [Maintainers](#maintainers)
+  - [License](#license)
 
 ## Getting started
 
