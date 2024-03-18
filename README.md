@@ -1,4 +1,9 @@
-# al-folio
+# [智能感知交互实验室](https://intelligentinteractivelab.github.io/)
+- 西北工业大学软件学院
+- 智能感知交互实验室主页
+基于ai-folio开发，下述为ai-folio的readme
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+# ai-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
