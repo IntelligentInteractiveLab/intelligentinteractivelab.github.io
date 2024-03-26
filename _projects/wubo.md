@@ -2,6 +2,7 @@
 layout: page
 title: 吴波
 importance: 3
-category: Current Postgraduate Students
+description: 迈瑞医疗
+category: Alumni
 # redirect: 
 ---
