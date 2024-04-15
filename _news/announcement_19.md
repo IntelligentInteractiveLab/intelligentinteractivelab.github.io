@@ -6,10 +6,17 @@ inline: false
 related_posts: false
 ---
 
+<a href="http://www.news.cn/info/20240401/6d67bf8840f14e6f8442dd2f76388d26/c.html">探索产教融合新路径 加速ICT人才培养</a>————新华网报道（2024年4月1日）
 
+<a href="https://mp.weixin.qq.com/s/og_oKyFoP8yEfpYWGRAIWQ">新时代的ICT人才从哪里来，到哪里去？</a>————人民邮电网报道（2024年4月1日）
+
+<a href="https://mp.weixin.qq.com/s/og_oKyFoP8yEfpYWGRAIWQ">祝贺！西工大特等奖第一！</a>————西北工业大学（2024年4月14日）
+
+<a href="https://mp.weixin.qq.com/s/og_oKyFoP8yEfpYWGRAIWQ">西工大斩获华为ICT大赛2023-2024中国创新赛特等奖！</a>————西安发布（2024年4月14日）
+
+<a href="https://qinwen.sanqin.com/app/template/displayTemplate/news/newsDetail/5551/10654267.html">创新研发“系统”用于抑郁症的初步诊断————西工大研究生参赛团队获中国创新赛总决赛特等奖</a>————秦闻（2024年4月14日）
 
 2024年3月30日至31日，华为ICT大赛2023-2024中国创新赛总决赛在厦门大学举行，来自全国31所高校的50支队伍进行了激烈的比拼，最终，有12支队伍在创新赛中脱颖而出，他们将和实践赛获胜队伍一起，代表中国区参加华为ICT大赛全球总决赛。
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -36,6 +43,3 @@ related_posts: false
 
 团队负责人苏萌在接收采访时表示：“通过参加本次大赛，他看到了许多优秀项目，同时也增进了对前沿技术及行业的了解，有助于自己后续课题研究的开展与毕业论文的设计。在项目推进过程中，华为不但提供了大量软硬件支持，还能够及时有效地响应开发者的诉求，为开发提供了友好的环境。”
 
-<a href="http://www.news.cn/info/20240401/6d67bf8840f14e6f8442dd2f76388d26/c.html">探索产教融合新路径 加速ICT人才培养</a>————新华网报道（2024年4月1日）
-
-<a href="https://mp.weixin.qq.com/s/og_oKyFoP8yEfpYWGRAIWQ">新时代的ICT人才从哪里来，到哪里去？</a>————人民邮电网报道（2024年4月1日）

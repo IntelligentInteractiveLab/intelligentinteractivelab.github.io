@@ -1,7 +1,7 @@
 ---
 layout: post
 date: March 25, 2024
-title: 【实验室风采】24届毕业生全员取得优秀毕业生！(Mar 25. 2024)
+title: 24届毕业生全员取得优秀毕业生！(Mar 25. 2024)
 inline: false
 related_posts: false
 ---
