@@ -10,9 +10,9 @@ related_posts: false
 
 <a href="https://mp.weixin.qq.com/s/og_oKyFoP8yEfpYWGRAIWQ">新时代的ICT人才从哪里来，到哪里去？</a>————人民邮电网报道（2024年4月1日）
 
-<a href="https://mp.weixin.qq.com/s/og_oKyFoP8yEfpYWGRAIWQ">祝贺！西工大特等奖第一！</a>————西北工业大学（2024年4月14日）
+<a href="https://mp.weixin.qq.com/s/n6Wrkl4kxbEIoautGXhdWw">祝贺！西工大特等奖第一！</a>————西北工业大学（2024年4月14日）
 
-<a href="https://mp.weixin.qq.com/s/og_oKyFoP8yEfpYWGRAIWQ">西工大斩获华为ICT大赛2023-2024中国创新赛特等奖！</a>————西安发布（2024年4月14日）
+<a href="https://xafbapp.xiancn.com/app/template/displayTemplate/news/newsDetail/2347/6879621.html?isShare=true">西工大斩获华为ICT大赛2023-2024中国创新赛特等奖！</a>————西安发布（2024年4月14日）
 
 <a href="https://qinwen.sanqin.com/app/template/displayTemplate/news/newsDetail/5551/10654267.html">创新研发“系统”用于抑郁症的初步诊断————西工大研究生参赛团队获中国创新赛总决赛特等奖</a>————秦闻（2024年4月14日）
 
