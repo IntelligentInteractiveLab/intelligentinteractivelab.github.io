@@ -30,6 +30,8 @@ related_posts: false
 
 <a href="https://edu.hsw.cn/system/2024/0416/150416.shtml">西工大斩获华为ICT大赛2023-2024中国创新赛特等奖-高校动态_华商网教育 (hsw.cn)</a>————西安新闻网（2024年4月16日）
 
+<a href="http://education.chinadaily.com.cn/2024-04/17/c_980071.htm">Northwestern Polytechnical University wins China Innovation Competition_中国日报 (CHINADAILY.com.cn)</a>————CHINADAILY（2024年4月17日）
+
 2024年3月30日至31日，华为ICT大赛2023-2024中国创新赛总决赛在厦门大学举行，来自全国31所高校的50支队伍进行了激烈的比拼，最终，有12支队伍在创新赛中脱颖而出，他们将和实践赛获胜队伍一起，代表中国区参加华为ICT大赛全球总决赛。
 
 <div class="row justify-content-sm-center">
@@ -51,7 +53,7 @@ related_posts: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ict1.jpg" title="Participate ICT Contest" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ict1.png" title="Participate ICT Contest" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
