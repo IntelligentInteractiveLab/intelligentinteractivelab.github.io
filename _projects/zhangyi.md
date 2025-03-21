@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 张译
+description: 美团
 importance: 4
-category: Current Postgraduate Students
-# redirect: 
+category: Alumni
+# redirect:
 ---
