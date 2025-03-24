@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: <a href='https://www.nwpu.edu.cn/'>NORTHWESTERN POLYTECHNICAL UNIVERSITY</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://ruanjian.nwpu.edu.cn/'>SCHOOL OF SOFTWARE</a>
 
@@ -27,11 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carousel_2.jpg" title="Intelligent Interaction Laboratory" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div> -->
 
 #### **智能感知交互实验室（Intelligent Interaction Laboratory）**
 
