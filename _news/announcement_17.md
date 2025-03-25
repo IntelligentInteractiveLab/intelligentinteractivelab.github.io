@@ -10,18 +10,18 @@ related_posts: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/zns1.jpg" title="终南山1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/zns1.jpg" title="终南山1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/zns2.jpg" title="终南山2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/zns2.jpg" title="终南山2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/zns3.jpg" title="终南山3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/zns3.jpg" title="终南山3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

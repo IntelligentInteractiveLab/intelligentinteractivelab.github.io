@@ -8,7 +8,7 @@ related_posts: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/aigc_development.jpg" title="AIGC Development" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/aigc_development.jpg" title="AIGC Development" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -16,6 +16,6 @@ related_posts: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/陕西省清华校友会圆桌会话.jpg" title="fig1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/陕西省清华校友会圆桌会话.jpg" title="fig1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
