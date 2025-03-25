@@ -36,7 +36,7 @@ related_posts: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ict3.png" title="ICT Contest" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ict3.png" title="ICT Contest" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -44,7 +44,7 @@ related_posts: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ict2.jpg" title="Special" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ict2.jpg" title="Special" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -53,7 +53,7 @@ related_posts: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ict1.png" title="Participate ICT Contest" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ict1.png" title="Participate ICT Contest" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
