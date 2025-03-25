@@ -51,21 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-digital-human-r-amp-d-platform-demonstration",
+        },{id: "post-digital-human-r-amp-d-platform-demonstration",
         
           title: "Digital Human R&amp;D Platform Demonstration",
         
@@ -92,16 +78,79 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-一种多模态数据同步可视化系统发明",
+          title: '一种多模态数据同步可视化系统发明！',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-软件学院在2021世界机器人大赛-bci脑控机器人大赛-技术赛中取得佳绩",
+          title: '软件学院在2021世界机器人大赛—BCI脑控机器人大赛-技术赛中取得佳绩',
+          description: "",
+          section: "News",},{id: "news-校企合作树新风-徐韬副教授荣获首届华为昇腾众智星光奖",
+          title: '校企合作树新风——徐韬副教授荣获首届华为昇腾众智星光奖',
+          description: "",
+          section: "News",},{id: "news-祝贺-软件学院徐韬副教授团队在中国国际-互联网-大学生创新创业大赛陕西赛区中斩获一金一银",
+          title: '祝贺！软件学院徐韬副教授团队在中国国际“互联网+”大学生创新创业大赛陕西赛区中斩获一金一银',
+          description: "",
+          section: "News",},{id: "news-our-paper-titled-dagam-a-domain-adversarial-graph-attention-model-for-subject-independent-eeg-based-emotion-recognition-is-accepted-by-journal-of-neural-engineering-2023-20-jan-2023",
+          title: 'Our paper, titled “DAGAM: a domain adversarial graph attention model for subject-independent EEG-based...',
+          description: "",
+          section: "News",},{id: "news-our-paper-titled-ravengaze-a-dataset-for-gaze-estimation-leveraging-psychological-experiment-through-eye-tracker-is-accepted-by-2023-ieee-17th-international-conference-on-automatic-face-and-gesture-recognition-fg-2023-16-feb-2023",
+          title: 'Our paper, titled “RavenGaze: A Dataset for Gaze Estimation Leveraging Psychological Experiment Through...',
+          description: "",
+          section: "News",},{id: "news-our-paper-titled-confused-or-not-decoding-brain-activity-and-recognizing-confusion-in-reasoning-learning-using-eeg-is-accepted-by-journal-of-neural-engineering-2023-28-feb-2023",
+          title: 'Our paper, titled “Confused or not: decoding brain activity and recognizing confusion in...',
+          description: "",
+          section: "News",},{id: "news-徐韬副教授受邀参加-2023-cann训练营第一季-做相关教学-march-15-2023",
+          title: '徐韬副教授受邀参加【2023 · CANN训练营第一季】做相关教学！(March 15. 2023)',
+          description: "",
+          section: "News",},{id: "news-徐韬副教授受邀参加-华为伙伴暨开发者大会-2022-做主题演讲-june-15-2023",
+          title: '徐韬副教授受邀参加“华为伙伴暨开发者大会 2022”做主题演讲(June 15. 2023)',
+          description: "",
+          section: "News",},{id: "news-祝贺-软件学院2020级王佳宝毕业论文-基于脑电信号的时空域图神经网络情绪识别研究-被评为2023年西北工业大学优秀硕士学位论文-september-4-2023",
+          title: '祝贺！软件学院2020级王佳宝毕业论文《基于脑电信号的时空域图神经网络情绪识别研究》被评为2023年西北工业大学优秀硕士学位论文！(September 4. 2023)',
+          description: "",
+          section: "News",},{id: "news-徐韬老师作为校友在铁一中开学典礼发言-使命与选择-september-08-2023",
+          title: '徐韬老师作为校友在铁一中开学典礼发言《使命与选择》(September 08. 2023)',
+          description: "",
+          section: "News",},{id: "news-ai陕耀-昇腾ai创新大赛2023-第二届-昇腾杯-秦创原人工智能开发者大赛决赛暨昇腾ai开发创享日圆满结束-软件学院徐韬副教授团队斩获双银-september-28-2023",
+          title: 'AI陕耀 | 昇腾AI创新大赛2023—第二届“昇腾杯”秦创原人工智能开发者大赛决赛暨昇腾AI开发创享日圆满结束！——软件学院徐韬副教授团队斩获双银！(September 28. 2023)',
+          description: "",
+          section: "News",},{id: "news-软件学院合作开发的数字人亮相第四届中国-广西-东盟人工智能大会-september-29-2023",
+          title: '软件学院合作开发的数字人亮相第四届中国(广西)—东盟人工智能大会(September 29. 2023)',
+          description: "",
+          section: "News",},{id: "news-软件学院徐韬副教授入选2023年度教育部-华为-智能基座-优秀教师奖励计划-december-07-2023",
+          title: '软件学院徐韬副教授入选2023年度教育部-华为“智能基座”优秀教师奖励计划(December 07. 2023)',
+          description: "",
+          section: "News",},{id: "news-活动报名-智能心理访谈体验来了-december-14-2023",
+          title: '【活动报名】智能心理访谈体验来了！(December 14. 2023)',
+          description: "",
+          section: "News",},{id: "news-西北工业大学-华为强强联合-智能基座-建设结硕果-jan-23-2024",
+          title: '西北工业大学—华为强强联合“智能基座”建设结硕果(Jan 23. 2024)',
+          description: "",
+          section: "News",},{id: "news-aigc-发展实践与机遇主题论坛-jan-28-2024",
+          title: 'AIGC 发展实践与机遇主题论坛(Jan 28. 2024)',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_16/";
+            },},{id: "news-实验室风采-实验室联谊陕师大一同前往终南山踏青-mar-16-2024",
+          title: '【实验室风采】实验室联谊陕师大一同前往终南山踏青！(Mar 16. 2024)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_17/";
+            },},{id: "news-24届毕业生全员取得优秀毕业生-mar-25-2024",
+          title: '24届毕业生全员取得优秀毕业生！(Mar 25. 2024)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_18/";
+            },},{id: "news-实验室刘源等人携-智慧医心-斩获华为ict大赛中国区总决赛特等奖-受到多方媒体报道-apr-1-2024",
+          title: '实验室刘源等人携“智慧医心”斩获华为ICT大赛中国区总决赛特等奖！受到多方媒体报道！(Apr 1. 2024)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_19/";
+            },},{id: "news-在神经科学知名期刊frontiers-in-neuroscience-sci-2区-上组织专刊investigating-learning-and-cognitive-states-using-multimodal-approaches欢迎大家踊跃投稿",
+          title: '在神经科学知名期刊Frontiers in Neuroscience (SCI 2区)上组织专刊Investigating Learning and Cognitive States Using Multimodal Approaches欢迎大家踊跃投稿！',
+          description: "",
+          section: "News",},{id: "news-华为全联接大会2024-昇腾cann深度开放-使能ai原生创新技术论坛圆满落幕",
+          title: '华为全联接大会2024 | 昇腾CANN深度开放，使能AI原生创新技术论坛圆满落幕',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -323,35 +372,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%78%75%74%61%6F@%6E%77%70%75.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/IntelligentInteractiveLab", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("//feed.xml", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/37086491852/", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=bDXedd4AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
