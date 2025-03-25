@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: October 20, 2021
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<a href="https://mp.weixin.qq.com/s/3PW-SEkkPViU6awCvdQLdw">软件学院在2021世界机器人大赛—BCI脑控机器人大赛-技术赛中取得佳绩</a>
