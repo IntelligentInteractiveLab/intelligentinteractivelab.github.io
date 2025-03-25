@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-people",
+          title: "People",
+          description: "Composition of Laboratory Personnel.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/people/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -463,6 +463,176 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-audio-confuse",
+          title: 'Audio Confuse',
+          description: "音频诱发的困惑情绪识别脑电数据集",
+          section: "Projects",handler: () => {
+              window.location.href = "/datasets/audio_confuse";
+            },},{id: "projects-cal",
+          title: 'CAL',
+          description: "EEG database for Confusion Analysis in Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/datasets/cal";
+            },},{id: "projects-ravengaze",
+          title: 'RavenGaze',
+          description: "Gaze Estimation Dataset Evoked by Raven Progressive Matrices (RPM) Test",
+          section: "Projects",handler: () => {
+              window.location.href = "/datasets/RavenGaze/index.html";
+            },},{id: "projects-ruiweneeg",
+          title: 'RuiwenEEG',
+          description: "瑞文实验诱发的情绪识别脑电数据集",
+          section: "Projects",handler: () => {
+              window.location.href = "/datasets/ruiwen";
+            },},{id: "projects-白玉琼",
+          title: '白玉琼',
+          description: "工行软开中心",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/baiyuqiong/";
+            },},{id: "projects-曹志鹏",
+          title: '曹志鹏',
+          description: "华为",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/caozhipeng/";
+            },},{id: "projects-陈骁",
+          title: '陈骁',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chenxiao/";
+            },},{id: "projects-党旺",
+          title: '党旺',
+          description: "华为",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dangwang/";
+            },},{id: "projects-邓义兴",
+          title: '邓义兴',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dengyixing/";
+            },},{id: "projects-范瑞龙",
+          title: '范瑞龙',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fanruilong/";
+            },},{id: "projects-jia-guo",
+          title: 'Jia Guo',
+          description: "Associate Professor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/guojia/";
+            },},{id: "projects-郭忠昌",
+          title: '郭忠昌',
+          description: "中兴通讯",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/guozhongchang/";
+            },},{id: "projects-bing-li",
+          title: 'Bing Li',
+          description: "Associate Professor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/libing/";
+            },},{id: "projects-李朝阳",
+          title: '李朝阳',
+          description: "中国空间技术研究院杭州中心",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lichaoyang/";
+            },},{id: "projects-李瑞强",
+          title: '李瑞强',
+          description: "华为",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liruiqiang/";
+            },},{id: "projects-刘源",
+          title: '刘源',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liuyuan/";
+            },},{id: "projects-慕海洋",
+          title: '慕海洋',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/muhaiyang/";
+            },},{id: "projects-覃一航",
+          title: '覃一航',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/qinyihang/";
+            },},{id: "projects-苏萌",
+          title: '苏萌',
+          description: "西安热工研究院有限公司",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sumeng/";
+            },},{id: "projects-王佳宝",
+          title: '王佳宝',
+          description: "北京机电工程研究所",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wangjiabao/";
+            },},{id: "projects-王纪元",
+          title: '王纪元',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wangjiyuan/";
+            },},{id: "projects-王旭",
+          title: '王旭',
+          description: "中兴通讯",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wangxu/";
+            },},{id: "projects-王璇",
+          title: '王璇',
+          description: "中国移动",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wangxuan/";
+            },},{id: "projects-吴波",
+          title: '吴波',
+          description: "迈瑞医疗",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wubo/";
+            },},{id: "projects-吴昭颖",
+          title: '吴昭颖',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wuzhaoying/";
+            },},{id: "projects-tao-xu",
+          title: 'Tao Xu',
+          description: "Associate Professor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xutao/";
+            },},{id: "projects-伊浩圆",
+          title: '伊浩圆',
+          description: "科大讯飞",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yihaoyuan/";
+            },},{id: "projects-尹欣玥",
+          title: '尹欣玥',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yinxinyue/";
+            },},{id: "projects-张高天",
+          title: '张高天',
+          description: "华为",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhanggaotian/";
+            },},{id: "projects-张江源",
+          title: '张江源',
+          description: "百度",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhangjiangyuan/";
+            },},{id: "projects-张译",
+          title: '张译',
+          description: "美团",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhangyi/";
+            },},{id: "projects-张芸萱",
+          title: '张芸萱',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhangyunxuan/";
+            },},{id: "projects-张志伟",
+          title: '张志伟',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhangzhiwei/";
+            },},{id: "projects-赵璇",
+          title: '赵璇',
+          description: "华为",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhaoxuan/";
             },},{
         id: 'social-email',
         title: 'email',
