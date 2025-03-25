@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.nwpu.edu.cn/'>NORTHWESTERN POLYTECHNICAL UNIVERSITY</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://ruanjian.nwpu.edu.cn/'>SCHOOL OF SOFTWARE</a>
 
@@ -27,7 +27,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/carousel_2.jpg" title="Intelligent Interaction Laboratory" class="img-fluid rounded z-depth-1" %}

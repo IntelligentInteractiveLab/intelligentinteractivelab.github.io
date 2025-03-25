@@ -53,7 +53,6 @@ jobs:
             --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' 
             --header 'Cache-Control: no-cache' 
             --header 'Accept: text/html,application/xhtml+xml'
-            --exclude-status 418 
             --retry 3 
             --exclude-path README.md 
             --exclude-path _pages/404.md 
