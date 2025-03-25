@@ -27,12 +27,10 @@ category: Datasets_not_used
 # Below is an example of injecting additional post-specific styles
 
 # If you use this post as a template, delete this _styles block
-
-
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/confuse-experiment.png" title="confuse-experiment" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/confuse-experiment.png" title="confuse-experiment" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -48,7 +46,7 @@ The audio confuse dataset contains subjects' EEG signals when they were listenin
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/experiment.gif" title="experiment" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/experiment.gif" title="experiment" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -89,7 +87,7 @@ Audio_Confuse_Dataset
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10-20system.png" title="10-20system" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/10-20system.png" title="10-20system" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -103,12 +101,13 @@ First and foremost we'd like to thank the all(14) participants in this study for
 
 ## Dataset access
 
-To gain access to the dataset and download the files on this page, please download the license agreement below. The license agreement should be printed, signed, scanned and returned via email to <a href="mailto:xutao@nwpu.edu.cn">xutao@nwpu.edu.cn</a> with the subject of "RavenGaze account request". Upon receipt, a username, a password and a download link will be sent to download the data files below.
+To gain access to the dataset and download the files on this page, please download the license agreement below. The license agreement should be printed, signed, scanned and returned via email to `<a href="mailto:xutao@nwpu.edu.cn">`xutao@nwpu.edu.cn`</a>` with the subject of "RavenGaze account request". Upon receipt, a username, a password and a download link will be sent to download the data files below.
 
 [The License Agreement](/assets/pdf/license_audio_confuse.pdf)
 
 <!-- 引入不蒜子计数 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <center>
         Views count:<span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>👀 | Number of visitors:<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>👦

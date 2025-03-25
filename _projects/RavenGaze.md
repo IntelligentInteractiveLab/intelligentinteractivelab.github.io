@@ -6,10 +6,9 @@ description: Gaze Estimation Dataset Evoked by Raven Progressive Matrices (RPM) 
 importance: 2
 category: Datasets
 ---
-
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/expriment_process.jpg" title="expriment process" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/expriment_process.jpg" title="expriment process" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -25,7 +24,7 @@ We used the 48-question from Raven Progressive Matrices (RPM) as the subject's v
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-experiment_procedure.png" title="1-experiment_procedure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/1-experiment_procedure.png" title="1-experiment_procedure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -37,7 +36,7 @@ Before each subject starts the investigation, first, the eye tracker is calibrat
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2-Experiment_setting.png" title="1-2-Experiment_setting" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/2-Experiment_setting.png" title="1-2-Experiment_setting" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -53,7 +52,7 @@ We collected gaze data from a total of 34 subjects(18 female and 16 male), with 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3-face_image.png" title="3-face_image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/3-face_image.png" title="3-face_image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -63,7 +62,7 @@ We collected gaze data from a total of 34 subjects(18 female and 16 male), with 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/4-densityHeatMap.png" title="4-densityHeatMap" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/4-densityHeatMap.png" title="4-densityHeatMap" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -91,13 +90,13 @@ First and foremost we'd like to thank the all(34) participants in this study for
 
 ## Dataset access
 
-To gain access to the dataset and download the files on this page, please download the license agreement below. The license agreement should be printed, signed, scanned and returned via email to <a href="mailto:xutao@nwpu.edu.cn">xutao@nwpu.edu.cn</a> with the subject of "RavenGaze account request". Upon receipt, a username, a password and a download link will be sent to download the data files below.
+To gain access to the dataset and download the files on this page, please download the license agreement below. The license agreement should be printed, signed, scanned and returned via email to `<a href="mailto:xutao@nwpu.edu.cn">`xutao@nwpu.edu.cn`</a>` with the subject of "RavenGaze account request". Upon receipt, a username, a password and a download link will be sent to download the data files below.
 
 [The License Agreement](/assets/pdf/license_RavenGaze.pdf)
 
-
 <!-- 引入不蒜子计数 -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <center>
         Views count:<span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span>👀 | Number of visitors:<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>👦

@@ -21,7 +21,7 @@ category: Datasets
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/fig3.jpg" title="fig3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/fig3.jpg" title="fig3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -31,7 +31,7 @@ The experiment system comprised three parts: EEG collector, confusion inducer, a
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cal_experiment_process.png" title="cal_experiment_process" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/cal_experiment_process.png" title="cal_experiment_process" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -45,7 +45,7 @@ The Dataset consists 23 subject’ data(failed subject 1 and subject 6), and eac
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/10-20system.png" title="10-20system" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/10-20system.png" title="10-20system" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

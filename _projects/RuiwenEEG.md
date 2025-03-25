@@ -9,7 +9,7 @@ category: Datasets_not_used
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/confuse-experiment.png" title="confuse-experiment" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/confuse-experiment.png" title="confuse-experiment" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -26,7 +26,7 @@ The multimodal ruiwen dataset contains subjects' EEG signals, Eye Tracking and F
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-experiment_procedure.png" title="1-experiment_procedure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/1-experiment_procedure.png" title="1-experiment_procedure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -53,7 +53,7 @@ The multimodal ruiwen dataset contains subjects' EEG signals, Eye Tracking and F
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/label.png" title="label" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/label.png" title="label" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
