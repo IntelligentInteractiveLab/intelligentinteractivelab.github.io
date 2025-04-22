@@ -152,10 +152,12 @@ ninja.data = [{
           section: "News",},{id: "news-华为全联接大会2024-昇腾cann深度开放-使能ai原生创新技术论坛圆满落幕",
           title: '华为全联接大会2024 | 昇腾CANN深度开放，使能AI原生创新技术论坛圆满落幕',
           description: "",
-          section: "News",},{id: "news-从使用到贡献-做昇腾cann生态共建者-特邀嘉宾-徐韬-昇腾cann算子共建仓cann-ops正式上线gitee-首批算子已合入-国内首个-祝贺西工大徐韬-国内首个-祝贺我省高校科研团队-陕西这2个科研团队成果上新",
-          title: '从使用到贡献，做昇腾CANN生态共建者（特邀嘉宾：徐韬）  昇腾CANN算子共建仓CANN-Ops正式上线Gitee，首批算子已合入  国内首个！祝贺西工大徐韬！  国内首个！祝贺我省高校科研团队  陕西这2个科研团队成果上新',
+          section: "News",},{id: "news-西工大软件学院徐韬团队成功向华为昇腾cann-ops算子仓库贡献了多个高性能算子-成为国内首个完成该仓库外部合入的科研团队-受到多方媒体报道-apr-21-2025",
+          title: '西工大软件学院徐韬团队成功向华为昇腾CANN-Ops算子仓库贡献了多个高性能算子，成为国内首个完成该仓库外部合入的科研团队！受到多方媒体报道！(Apr 21. 2025)',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_23/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
