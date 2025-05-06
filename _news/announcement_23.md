@@ -15,3 +15,5 @@ related_posts: false
 <a href="https://mp.weixin.qq.com/s/XanXHZGAots2Wg8IayB9ag">国内首个！祝贺我省高校科研团队</a>————秦科技（2025年4月20日）
 
 <a href="https://mp.weixin.qq.com/s/9G6bXCzQLZKhXPXlR155dA">陕西这2个科研团队成果上新</a>————陕西人才（2025年4月21日）
+
+<a href="https://qidian.sxtvs.com/timing/share/content/10589495?1746346088270=">西工大基于昇腾平台研发高性能算子 助力国产芯片提速</a>————陕西卫视 丝路新周刊（2025年5月2日）
