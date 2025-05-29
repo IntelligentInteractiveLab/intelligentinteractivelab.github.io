@@ -17,3 +17,5 @@ related_posts: false
 <a href="https://mp.weixin.qq.com/s/9G6bXCzQLZKhXPXlR155dA">陕西这2个科研团队成果上新</a>————陕西人才（2025年4月21日）
 
 <a href="https://qidian.sxtvs.com/timing/share/content/10589495?1746346088270=">西工大基于昇腾平台研发高性能算子 助力国产芯片提速</a>————陕西卫视 丝路新周刊（2025年5月2日）
+
+<a href="https://cn.chinadaily.com.cn/a/202504/03/WS67ee200ba310e29a7c4a7835.html">昇腾CANN算子共建仓CANN-Ops正式上线Gitee，首批算子已合入</a>————中国日报网（2025年4月3日）
